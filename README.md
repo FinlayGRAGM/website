@@ -1,5 +1,9 @@
 # Portfolio Site for Finlay
 
+**Note:**: See [EDITING.md](EDITING.md) for detailed instructions on content schemas and how to add or modify content in this project.
+
+# Architecture:
+
 ## Core Technologies
 
 - **Framework**: Nuxt.js (v3)
