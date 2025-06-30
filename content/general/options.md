@@ -2,7 +2,7 @@
 
 # Core site information and SEO
 
-site.url: https://finlay-site.vercel.app
+site.url: https://finlaygraham.com
 site.title: Finlay Graham - Composer & Educator
 site.description: Contemporary classical composer and music educator based at Oberlin College
 site.keywords: composer, music composition, contemporary classical, educator, music teacher, Oberlin College
@@ -26,7 +26,7 @@ contact.lessons: {contact.email}
 contact.locations.1.place: Asheville, NC
 contact.locations.1.period: Mid-May through August
 contact.locations.2.place: Oberlin, OH
-contact.locations.2.period: September through mid-May
+contact.locations.2.period: SepÍtember through mid-May
 
 # Contact page content
 
