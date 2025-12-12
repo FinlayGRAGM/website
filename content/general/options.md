@@ -121,15 +121,10 @@ about.sections.philosophy.title: Compositional Philosophy
 
 # About page education data
 
-about.education.1.institution: Royal College of Music
-about.education.1.location: London, UK
-about.education.1.degree: Master of Music in Composition
-about.education.1.year: 2018-2020
-
-about.education.2.institution: Conservatorio di Santa Cecilia
-about.education.2.location: Rome, Italy
-about.education.2.degree: Bachelor of Music in Composition
-about.education.2.year: 2014-2018
+about.education.1.institution: Oberlin Conservatory
+about.education.1.location: Oberlin, OH
+about.education.1.degree: Composition, Neuroscience
+about.education.1.year: 2024-
 
 # About page achievements data
 
