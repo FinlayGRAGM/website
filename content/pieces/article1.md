@@ -1,6 +1,6 @@
 ---
-title: "My piece"
-description: "A piece I am very proud of"
+title: "ASCAH"
+description: "for Solo Piano"
 date: 2023-10-01
 type: "String Quartet"
 category: "chamber"
