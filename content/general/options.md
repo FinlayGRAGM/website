@@ -19,14 +19,14 @@ contact.lastName: Graham
 contact.college: Oberlin College
 contact.email: fgraham@oberlin.edu
 contact.cv: https://example.com/cv.pdf
-contact.shortDescription: Composer & Educator
-contact.sentenceAbout: Hi! I'm {contact.firstName}! I offer lessons and things and I songwrite.
+contact.shortDescription: Music Maker
+contact.sentenceAbout: Hello, I'm {contact.firstName}.
 contact.general: {contact.email}
 contact.lessons: {contact.email}
 contact.locations.1.place: Asheville, NC
 contact.locations.1.period: Mid-May through August
 contact.locations.2.place: Oberlin, OH
-contact.locations.2.period: SepÍtember through mid-May
+contact.locations.2.period: September through mid-May
 
 # Contact page content
 
@@ -37,17 +37,17 @@ contact.page.info.title: Contact Information
 
 # Contact form placeholders
 
-contact.page.form.messagePlaceholder: Ask me about my project or inquiry...
-contact.page.form.subjectPlaceholder: Please specify your subject
+contact.page.form.messagePlaceholder: Inquiry...
+contact.page.form.subjectPlaceholder: Specify subject.
 
 # Homepage content and media
 
-homepage.description: {contact.name} is a student at {contact.college} who is a composer. He is currently studying composition and has a keen interest in contemporary classical music. {contact.firstName} is also involved in various musical ensembles at the college, where he collaborates with other musicians to create innovative and engaging performances.
+homepage.description: {contact.name} is a sound maker and composer whose work is inspired by nature, spirituality, and the lived emotional experience. His music has been performed throughout the United States and Europe. His music focuses on range, rhythm, and physicality, and he works in both the accoustic and electronic media. He is a current student at {contact.college}, where he studies Music Composition and Neuroscience.
 
 # Work page content
 
 work.hero.title: Work
-work.hero.subtitle: A collection of compositions and writing, each piece crafted to explore the intersection of tradition and innovation.
+work.hero.subtitle: Viscous.
 work.cta.title: Interested in My Work?
 work.cta.description: Explore compositions and writing, or get in touch to discuss collaborations, performances, or commissioning new works.
 work.cta.buttons.primary: Get in Touch
@@ -64,7 +64,7 @@ pieces.performanceInfo.buttons.contact.link: /contact
 # Social media links and contact information
 
 socials.1.name: YouTube
-socials.1.link: https://www.youtube.com/@finlaygraham
+socials.1.link: https://youtube.com/@FinlayGrahamMusic
 socials.1.icon: ph:youtube-logo
 
 socials.2.name: Instagram
@@ -79,20 +79,15 @@ homepage.recentAndUpcoming.recent.subtitle: Latest compositions and projects
 homepage.recentAndUpcoming.upcoming.title: Upcoming
 homepage.recentAndUpcoming.upcoming.subtitle: Projects in development and future premieres
 
-homepage.recentAndUpcoming.upcomingWorks.1.title: Symphony No. 2
-homepage.recentAndUpcoming.upcomingWorks.1.description: A large-scale orchestral work exploring themes of memory and time
-homepage.recentAndUpcoming.upcomingWorks.1.status: In Progress
-homepage.recentAndUpcoming.upcomingWorks.1.expectedDate: Spring 2024
+homepage.recentAndUpcoming.upcomingWorks.1.title: Dendrites
+homepage.recentAndUpcoming.upcomingWorks.1.description: 10 minute Piece for Sinfonietta to be performed at Composition Midways at Oberlin.
+homepage.recentAndUpcoming.upcomingWorks.1.status: Coming Soon
+homepage.recentAndUpcoming.upcomingWorks.1.expectedDate: 2/14/2026
 
-homepage.recentAndUpcoming.upcomingWorks.2.title: Reflections on Water
-homepage.recentAndUpcoming.upcomingWorks.2.description: A collection of writing inspired by natural landscapes
-homepage.recentAndUpcoming.upcomingWorks.2.status: Coming Soon
+homepage.recentAndUpcoming.upcomingWorks.2.title: Untitled (WIP)
+homepage.recentAndUpcoming.upcomingWorks.2.description: Percussion Orchestra Piece for the Oberlin Percussion Group, to be performed at Oberlin.
+homepage.recentAndUpcoming.upcomingWorks.2.status: In Progress
 homepage.recentAndUpcoming.upcomingWorks.2.expectedDate: Summer 2024
-
-homepage.recentAndUpcoming.upcomingWorks.3.title: Chamber Music Cycle
-homepage.recentAndUpcoming.upcomingWorks.3.description: Five pieces for various chamber ensembles
-homepage.recentAndUpcoming.upcomingWorks.3.status: Commissioned
-homepage.recentAndUpcoming.upcomingWorks.3.expectedDate: Fall 2024
 
 homepage.cta.title: Ready to Create Something Together?
 homepage.cta.subtitle: Whether you're looking for a commission, collaboration, or music lessons, I'd love to hear from you.
@@ -116,7 +111,7 @@ about.page.subtitle: {site.description}
 about.hero.title: About {contact.name}
 about.sections.biography.title: Biography
 about.sections.education.title: Education
-about.sections.achievements.title: Recent Achievements
+about.sections.achievements.title: Projects
 about.sections.philosophy.title: Compositional Philosophy
 
 # About page education data
@@ -128,21 +123,9 @@ about.education.1.year: 2024-
 
 # About page achievements data
 
-about.achievements.1.year: 2023
-about.achievements.1.title: International Composition Prize
-about.achievements.1.description: Awarded for outstanding contribution to contemporary classical music
-
-about.achievements.2.year: 2023
-about.achievements.2.title: London Symphony Orchestra Commission
-about.achievements.2.description: Commissioned to write a new work for the 2024 season
-
-about.achievements.3.year: 2022
-about.achievements.3.title: Composer-in-Residence
-about.achievements.3.description: European Chamber Music Festival
-
-about.achievements.4.year: 2021
-about.achievements.4.title: Royal College of Music Fellowship
-about.achievements.4.description: Honorary fellowship for contributions to composition
+about.achievements.1.year: 2025
+about.achievements.1.title: soundSCAPE Composition and Performance Exchange
+about.achievements.1.description: Attended the soundSCAPE Composition and Performance Exchange where my work _Blue Green Blue Sea_ was performed.
 
 # About page navigation
 
@@ -182,27 +165,18 @@ teaching.section.description: Personalized instruction in music from a dedicated
 teaching.section.title: Private Lessons
 teaching.pickerTitle: Subjects I Teach
 
-teaching.subjects.1.title: Music Composition
-teaching.subjects.1.description: I teach music composition to all levels, from beginner to advanced.
-teaching.subjects.2.title: Songwriting
-teaching.subjects.2.description: I teach songwriting to all levels, from beginner to advanced.
-teaching.subjects.3.title: Music Theory
-teaching.subjects.3.description: I teach music theory to all levels, from beginner to advanced.
-teaching.subjects.4.title: Piano
-teaching.subjects.4.description: I teach piano to all levels, from beginner to advanced.
-teaching.subjects.5.title: Undergraduate Conservatory Preparation
-teaching.subjects.5.description: I teach undergraduate conservatory preparation to all levels, from beginner to advanced.
+teaching.subjects.1.title: Music Composition/Music Theory
+teaching.subjects.1.description:
+teaching.subjects.2.title: Piano
+teaching.subjects.2.description:
 
 teaching.studio.title: Studio Information
 
-teaching.philosophy.title: Teaching Philosophy
-teaching.philosophy.statements.1: Music should be accessible to everyone
-teaching.philosophy.statements.2: Wide spread creativity will save the world
-teaching.philosophy.statements.3: Access to music and creativity is a pathway to happiness and fulfillment on both individual and group levels
-teaching.philosophy.statements.4: Music literacy should be available to everyone, regardless of age or musical background
+teaching.philosophy.title: 
+teaching.philosophy.statements.1:
 
 teaching.lessonDetails.format: Both online and in-person
-teaching.lessonDetails.introSession: Free 20-minute introductory session
-teaching.lessonDetails.lessonLength: 40-minute lessons
-teaching.lessonDetails.rate: $23/lesson
-teaching.lessonDetails.ages: Open to all ages and levels of experience
+teaching.lessonDetails.introSession:
+teaching.lessonDetails.lessonLength:
+teaching.lessonDetails.rate:
+teaching.lessonDetails.ages:
