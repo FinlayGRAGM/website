@@ -19,7 +19,7 @@ contact.lastName: Graham
 contact.college: Oberlin College
 contact.email: fgraham@oberlin.edu
 contact.cv: https://example.com/cv.pdf
-contact.shortDescription: Music Maker
+contact.shortDescription: Composer and Musician
 contact.sentenceAbout: Hello, I'm {contact.firstName}.
 contact.general: {contact.email}
 contact.lessons: {contact.email}
