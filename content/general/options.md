@@ -42,7 +42,7 @@ contact.page.form.subjectPlaceholder: Specify subject.
 
 # Homepage content and media
 
-homepage.description: {contact.name} is a sound maker and composer whose work is inspired by nature, spirituality, and the lived emotional experience. His music has been performed throughout the United States and Europe. His music focuses on range, rhythm, and physicality, and he works in both the accoustic and electronic media. He is a current student at {contact.college}, where he studies Music Composition and Neuroscience.
+homepage.description: {contact.name} is a composer whose work is inspired by nature, spirituality, and the lived emotional experience. His music has been performed throughout the United States and Europe. His music focuses on range, rhythm, and physicality, and he works in both the accoustic and electronic media. He is a current student at {contact.college}, where he studies Music Composition and Neuroscience.
 
 # Work page content
 
