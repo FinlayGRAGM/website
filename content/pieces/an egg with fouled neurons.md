@@ -5,8 +5,8 @@ date: 11-2-2025
 type: "Installation"
 category: "electronic"
 duration: "1 hour and 50 minutes"
-year: "2023"
-link: https://www.youtube.com/watch?v=2WMbk_Nivgc&t=3785s
+year: "2025"
+score: https://www.youtube.com/watch?v=2WMbk_Nivgc&t=3785s
 audio: /audio_demo.mp3
 instrumentation:
 - PLEXIFIER V10
@@ -38,3 +38,5 @@ _7. oneness and death_
 an egg outside of its shell tends to rot in the shape of fractals.
 
 _8. contraction_
+
+Premiere Performance Link: https://www.youtube.com/watch?v=2WMbk_Nivgc&t=3786s
