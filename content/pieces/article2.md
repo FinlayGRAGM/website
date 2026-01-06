@@ -6,7 +6,7 @@ type: "Mixed Dectet"
 category: "chamber"
 duration: "c. 10'"
 year: "2025"
-score: 
+score: https://drive.google.com/file/d/1M5dTnfUqrtjQwSwxAjMvmEWsbGOwejUO/view?usp=sharing
 audio:
 instrumentation:
 - Flute (dbl. Piccolo)
