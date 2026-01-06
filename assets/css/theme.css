@@ -1,0 +1,46 @@
+@plugin "daisyui" {
+    themes: light --default;
+}
+
+*::selection {
+    @apply bg-primary/10 text-primary;
+}
+
+@plugin "daisyui/theme" {
+    name: "finlay";
+    default: true;
+    --color-primary: #009689;
+    --color-primary-content: #e9faf2;
+    --color-primary-dark: #00231d;
+    --color-primary-header: rgba(0, 150, 137, 0.3);
+    --color-primary-header2: rgba(0, 150, 137, 0.6);
+    --color-secondary: #d98758;
+    --color-secondary-dark: #3a0000;
+    --color-secondary-content: #ffffff;
+    --color-secondary-header: rgba(97, 115, 141, 0.3);
+    --color-accent: #e2cfd2;
+    --color-accent-dark: #1f1214;
+    --color-accent-content: #201315;
+    --color-neutral: #005d58;
+    --color-neutral-content: #e9faf2;
+    --color-base-100: #ffffff;
+    --color-base-200: #f7f9fa;
+    --color-base-300: #dfe5ed;
+    --color-base-content: #181a2a;
+    --color-info: #f2f2f2;
+    --color-info-content: #002c21;
+    --color-success: #009689;
+    --color-success-content: #ffffff;
+    --color-warning: #fdc700;
+    --color-warning-content: #000000;
+    --color-error: #ff627d;
+    --color-error-content: #000000;
+    --radius-selector: 0.25rem;
+    --radius-field: 0.25rem;
+    --radius-box: 0.5rem;
+    --size-selector: 0.21875rem;
+    --size-field: 0.21875rem;
+    --border: 0.5px;
+    --depth: 1;
+    --noise: 1;
+}

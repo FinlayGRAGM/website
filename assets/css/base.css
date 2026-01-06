@@ -1,0 +1,213 @@
+body {
+  background: hsl(45 15% 98%);
+  @apply antialiased;
+}
+@utility btn {
+  @apply font-light font-mono;
+}
+
+@utility prose-lg {
+  h1 {
+    @apply h1;
+  }
+}
+
+@utility h1 {
+  @apply text-5xl md:text-7xl font-light mb-4 font-serif;
+}
+
+@utility h2 {
+  @apply h1 text-5xl;
+}
+
+@utility subheading {
+  @apply text-2xl tracking-tight mb-2 font-mono font-extralight;
+}
+
+@utility prose {
+  blockquote {
+    @apply font-serif tracking-wide;
+  }
+  p {
+    @apply leading-7;
+  }
+  hr {
+    @apply block w-full h-0.5 bg-gradient-to-r from-primary/40 via-primary to-primary/40 my-4;
+  }
+  h1 {
+    @apply text-4xl font-serif text-base-content mb-2 tracking-wide underline decoration-primary/20 decoration-4 underline-offset-2;
+  }
+}
+
+@utility grad-text {
+  /* @apply text-accent-content; */
+  /* @apply text-[var(--color-primary-dark)]; */
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-[var(--color-primary-dark)] to-[var(--color-secondary-dark)];
+}
+
+@utility textarea {
+  @apply transition-all duration-200;
+}
+
+@utility input {
+  @apply transition-all duration-200;
+}
+
+@utility breadcrumb-link {
+  @apply font-serif tracking-wide uppercase text-sm;
+  @apply btn-ghost btn btn-xs font-sans transition-all duration-200 hover:tracking-tighter;
+}
+
+@utility bg-three-grad {
+  @apply bg-gradient-to-br from-primary/30 via-accent/30 to-secondary/30;
+}
+
+@utility bg-three-grad-dark {
+  @apply bg-gradient-to-br from-primary/50 via-[var(--color-accent-dark)]/20 to-secondary/50;
+}
+
+/* Work page components */
+@utility work-hero {
+  @apply relative pt-24 pb-16 md:py-32 overflow-hidden;
+}
+
+@utility work-hero-bg {
+  @apply absolute inset-0 bg-gradient-to-br from-primary/10 to-accent/10;
+}
+
+@utility work-hero-content {
+  @apply relative max-w-4xl mx-auto px-4 md:px-6 text-center;
+}
+
+@utility work-hero-title {
+  @apply text-4xl md:text-6xl font-serif font-light grad-text mb-6;
+}
+
+@utility work-hero-subtitle {
+  @apply text-xl text-base-content/70 max-w-2xl mx-auto leading-relaxed;
+}
+
+@utility glass-card {
+  @apply backdrop-blur-md bg-base-100/80 border border-base-300/20 rounded-lg shadow-lg;
+}
+
+@utility category-filter {
+  @apply glass-card p-6 mb-12 ring-2 ring-accent/40;
+}
+
+@utility category-btn {
+  @apply px-6 py-3 border-2 border-transparent cursor-pointer rounded-lg font-mono text-sm transition-all duration-300;
+}
+
+@utility category-btn-active {
+  @apply category-btn bg-[var(--btn-accent)]/20 text-[var(--btn-accent-content)] shadow-lg scale-105;
+}
+
+@utility category-btn-inactive {
+  @apply category-btn border-2 border-[var(--btn-accent)]  bg-base-200/30 text-base-content/60 hover:bg-base-200/50 hover:text-base-content;
+}
+
+@utility work-card {
+  @apply rounded-lg border border-base-300/20 hover:shadow-lg transition-all duration-300 hover:scale-105 cursor-pointer overflow-hidden;
+  background: oklch(from var(--col) l c h / 0.15);
+  &.subtle {
+    @apply bg-base-200/50 border-[var(--col)]/30 border-2 border-dashed hover:shadow-[unset] hover:scale-100 hover:border-solid;
+  }
+}
+
+@utility work-card-content {
+  @apply p-6;
+}
+
+@utility work-card-header {
+  @apply flex items-start justify-between mb-4;
+}
+
+@utility work-card-title {
+  @apply font-serif text-xl font-semibold text-primary mb-2 transition-colors;
+
+  &.no-underline {
+    @apply no-underline;
+  }
+}
+
+@utility work-card-type {
+  @apply text-xs font-mono inline-block px-2 py-1 rounded border border-base-300/50 bg-base-200/30 text-base-content/70 mb-1;
+}
+
+@utility work-card-icon {
+  color: var(--col);
+}
+
+@utility work-card-description {
+  @apply text-sm text-base-content/70 leading-relaxed mb-4;
+}
+
+@utility work-card-meta {
+  @apply flex items-center justify-between text-xs text-base-content/60;
+}
+
+@utility work-card-progress {
+  @apply px-6 pb-6;
+}
+
+@utility work-card-progress-bar {
+  @apply w-full h-1 bg-primary/20 rounded-full overflow-hidden;
+}
+
+@utility work-card-progress-fill {
+  @apply h-full bg-primary rounded-full transform -translate-x-full group-hover:translate-x-0 transition-transform duration-500;
+}
+
+@utility cta-section {
+  @apply glass-card p-8 md:p-12 mt-16 text-center border-2 border-secondary/40 border-dashed;
+}
+
+@utility cta-title {
+  @apply text-3xl font-serif font-light grad-text mb-6;
+}
+
+@utility cta-description {
+  @apply text-base-content/70 mb-8 max-w-2xl mx-auto;
+}
+
+@utility cta-buttons {
+  @apply flex flex-col sm:flex-row gap-4 justify-center;
+}
+
+@utility cta-btn-primary {
+  @apply px-8 py-3 bg-three-grad text-accent-content cursor-pointer rounded-lg font-medium hover:scale-105 transition-all duration-300;
+}
+
+@utility cta-btn-secondary {
+  @apply cursor-pointer px-8 py-3 border border-primary text-primary rounded-lg font-medium hover:bg-primary hover:text-primary-content transition-all duration-300;
+}
+
+@utility studio-info-icon {
+  @apply w-16 h-16 mx-auto mb-4 bg-three-grad rounded-lg flex items-center justify-center text-accent-content;
+}
+
+@utility shadow-lg {
+  @apply shadow-md;
+}
+
+@utility rounded-lg {
+  @apply rounded-sm;
+}
+
+@utility pattern-cross-dots-sm {
+  --col: #0003;
+  background-image: radial-gradient(var(--col) 0.5px, transparent 0.5px),
+    radial-gradient(var(--col) 0.5px, transparent 0.5px);
+  background-size: calc(20 * 0.5px) calc(20 * 0.5px);
+  background-position: 0 0, calc(10 * 0.5px) calc(10 * 0.5px);
+}
+
+/* Home Contact Section */
+@utility home-contact-masonry {
+  @apply columns-2 md:columns-3 gap-3 space-y-3;
+}
+
+@utility home-contact-item {
+  @apply break-inside-avoid mb-3 rounded-lg overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
+}

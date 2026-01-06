@@ -1,0 +1,121 @@
+- Serious in an inviting way
+- White background, sans serif
+- Professional, relatable and accessible to both people with a music background and not
+- Small name, bigger than https://www.michaelfraziermusic.com/
+- Tabs:
+  - About
+  - Music
+  - Contact
+  - Lessons
+  - No icons
+- Airy theme
+  - Small caps
+- Background:
+  - Lavender
+  - Lavender accents: Relaxing but very direct
+- Effects:
+  - Underline on links
+- Picture of him:
+  - Part of the page, fade into content maybe
+  - No interactions, just exist
+- Recent works & My Next Things
+  - Small cards for each thing
+  - Idea: Recent works hover, shows background image
+  - My Next Things - Text list
+- Blog with poetry section
+- About section
+  - Long bio: Tabs on the side for bio length
+  - Different picture to the right sidebar
+- Music statement
+  - What you think about music, why you write music
+- Pages for:
+  - Poetry, blog
+  - Interspersed?
+
+## Pages
+
+- About (bio, media = photos of him, music statement)
+  - Bio music statement, other work
+  - Short bio
+  - Music Statement
+  - Media to the side
+- Other work:
+  - Poetry, blog etc
+- Requests:
+  - Form that sends emails, or thing that opened email client -> Contact form to open email client
+  - Contact
+- Change pictures when hovering on other things in the header bar
+- Lessons page
+  - Subsections with info
+    - Scrolled over, showed more info
+    - Hover over show more info about why you're qualified
+    - Group into main items: Music composition, songwriting, emphasize that it's whatever level you want
+    - A solid foundation from the start
+- Pieces
+  - Subtle timeline at the top
+  - Solo, Duet, Chamber, Percussion, Choral, Large Ensemble
+  - Graphic for each button
+  - Donnacha Dennehy: https://www.donnachadennehy.com/compositions-page
+  - Complete list
+  - Score, Recording, Blurb
+  - Each piece
+    - Video or audio recording
+    - Title, ensemble, very brief program notes
+    - Contact for more info on the score
+    - First page of score
+    - Side by side style, alternating sides
+
+## Typography
+
+- Lavender gradient, subtle gradients
+- Links: Flip background/text
+- Sans serif
+- Small caps
+- Professional but cliche Courier New
+- Theme:
+  - Courier new + sans serif font
+  - Header, accent font, body font
+  - Inter (playful, too curly maybe), fira code, playfair display (big heading), calibri,
+  - Fira Code
+  - Top contenders: Source Sans 3, Fira Sans
+  - Whatever fits with fira code
+- Emerald
+- Background: Slight gray
+- About last updated
+- Hours
+  - Get started, bring it to completion
+  - 6 hours
+  - Private site
+
+## 6-16
+
+- Notes:
+- Reorganize recent and upcoming vertically instead of horizontally
+- Upcoming projects:
+  - Upcoming: Paragraph
+    - More itemized, but not defined as pieces
+    - Indentation + line -> Done
+- Nav links larger on homepage -> Done
+- Media, contact, pieces
+- Work:
+  - Auto select compositions -> Done
+  - Remove CTA -> Done
+- Cursor pointer for social btns in footer -> Done
+- Book a lesson:
+  - Change to only button -> Done
+  -
+- Private lessons:
+  - Just a list of:
+    - Same ones
+      Just the words, vertical divider -> Done
+    - No icons -> Done
+- About section:
+  - Remove icons in the nav: Maybe keep CV -> Done
+  - Sections of about: Cut icons -> Done
+  - Pieces -> Remove large music note -> Done
+- /teaching:
+  - Remove all icons on lessons -> Done
+  - Remove big one -> Done
+- /contact:
+  - Remove dropdown, only "Other"
+  - Only "Other"
