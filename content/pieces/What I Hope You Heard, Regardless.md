@@ -6,7 +6,7 @@ type: "Mixed Sextet"
 category: "chamber"
 duration: "11:51"
 year: "2025"
-score sample: https://arxiv.org/pdf/2505.21615](https://drive.google.com/file/d/1NSk8etMFZOrn7usNsk1iz64kIA_V9_NZ/view?usp=sharing
+score: https://drive.google.com/file/d/1NSk8etMFZOrn7usNsk1iz64kIA_V9_NZ/view?usp=sharing
 audio: /audio_demo.mp3
 instrumentation:
 - Flute
