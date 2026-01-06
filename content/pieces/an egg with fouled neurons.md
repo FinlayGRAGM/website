@@ -2,14 +2,14 @@
 title: "an egg with fouled neurons"
 description: "Long form Microtonal Synth Improvisation"
 date: 11-2-2025
-type: "String Quartet"
+type: "Installation"
 category: "electronic"
 duration: "1 hour and 50 minutes"
 year: "2023"
 link: https://www.youtube.com/watch?v=2WMbk_Nivgc&t=3785s
 audio: /audio_demo.mp3
 instrumentation:
-- Synthesizer
+- PLEXIFIER V10
 - Organ
 
 premiere: 11/2/2025
