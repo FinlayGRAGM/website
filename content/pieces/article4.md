@@ -1,4 +1,3 @@
-
 ---
 title: "The Last Time You Ran Away"
 description: "Audiovisual Fixed Media Composition"
