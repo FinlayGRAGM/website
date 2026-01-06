@@ -40,3 +40,5 @@ an egg outside of its shell tends to rot in the shape of fractals.
 _8. contraction_
 
 Premiere Performance Link: https://www.youtube.com/watch?v=2WMbk_Nivgc&t=3786s
+
+>Premiered in Fairchild Chapel at Oberlin College and Conservatory on November 2nd, 2025.
