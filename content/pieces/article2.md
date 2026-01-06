@@ -24,3 +24,5 @@ premiere: anticipated 2026
 ---
 
 Please do not touch me while I am processing.
+
+>Premiering at Oberlin Composition Midway 2026.
