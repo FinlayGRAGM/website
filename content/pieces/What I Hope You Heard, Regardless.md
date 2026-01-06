@@ -23,6 +23,6 @@ the feeling of recollection which is both painful and joyful and neither. It
 explores ideas of presence, patience, love, and loss, and is the composer’s
 attempt at reclaiming a style of gentle, thoughtful music for themself.
 
-Performance Link: https://www.youtube.com/watch?v=70RwPoBZLVM
+Premiere Performance Link: https://www.youtube.com/watch?v=70RwPoBZLVM
 
 > Premiered at Oberlin Conservatory Composition Departmental Concert on October 15th in David H. Stull Recital Hall.
