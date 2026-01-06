@@ -1,5 +1,0 @@
-- About: /about
-- Teaching: /teaching
-- Media: /media
-- Contact: /contact
-- Pieces: /work
