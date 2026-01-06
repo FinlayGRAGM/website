@@ -1,6 +1,6 @@
 ---
 title: "Dendrites"
-description:
+description: Please do not touch me while I am processing.
 date: 2025
 type: "Mixed Dectet"
 category: "chamber"
