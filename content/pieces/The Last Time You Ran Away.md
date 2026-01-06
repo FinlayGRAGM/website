@@ -6,7 +6,7 @@ type: "Audiovisual Fixed Media"
 category: "electronic"
 duration: "7:51"
 year: "2025"
-link: https://www.youtube.com/watch?v=pvw48MuU5jI
+score: https://www.youtube.com/watch?v=pvw48MuU5jI
 audio:
 instrumentation:
 - Fixed Audio and Visuals
