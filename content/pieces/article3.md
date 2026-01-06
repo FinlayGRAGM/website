@@ -1,12 +1,12 @@
 ---
 title: "an egg with fouled neurons"
-description: "Fairchild Chapel Recording"
-date: 2023-10-01
+description: "Long form Microtonal Synth Improvisation"
+date: 11-2-2025
 type: "String Quartet"
-category: "chamber"
+category: "electronic"
 duration: "1 hour and 50 minutes"
 year: "2023"
-score: https://arxiv.org/pdf/2505.21615
+link: https://www.youtube.com/watch?v=2WMbk_Nivgc&t=3785s
 audio: /audio_demo.mp3
 instrumentation:
 - Synthesizer
