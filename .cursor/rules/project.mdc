@@ -1,0 +1,18 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+## The Golden Rule  
+When unsure about implementation details, ALWAYS ask the developer.
+
+## Code Style and Patterns  
+
+## Functional and object oriented approach
+
+Focus on creating functions, components, etc that the developer can use and re-use easily as opposed to coding a full structure at once.
+
+## General
+- This project uses Nuxt 3 and TailwindCSS v4 with DaisyUI. Ask before changing configuration for these
+- Reusable components are a must, both through vue components as well as reusable CSS classes in assets/css.
+- Use bun as the package manager

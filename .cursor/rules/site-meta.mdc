@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+[useSiteMeta.ts](mdc:composables/useSiteMeta.ts) [useStructuredData.ts](mdc:composables/useStructuredData.ts) [nuxt.config.ts](mdc:nuxt.config.ts)
